@@ -4,6 +4,7 @@ body {
 }
 #wrapper {
 	margin-top: 10% !important;
+	
 }
 #content {
 	background: beige;
@@ -30,4 +31,21 @@ footer {
 }
 .list-group-item {
 	color: black;
+}
+.accounts{
+	background: white;
+	max-width: 100%;
+	padding-top: 10px;
+	margin-top: 10px;
+	position: relative;
+}
+.accounts a{
+	color: black;
+	font-size: 25px;
+	padding: 10px;
+	margin-left: 150px;
+	margin-top: 150px;
+	background: rgb(22, 184, 196);
+	border: 1px solid blue;
+	position: fixed;
 }
